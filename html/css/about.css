@@ -1,0 +1,197 @@
+
+/* from here to .main-nav-li a:hover goes in every page for header */
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+	/*height: 50px;*/
+	background-size: cover;
+	background-position: center;
+	height: 87vh;
+
+}
+
+body {
+	font-family: "Futura";
+}
+
+p {
+	margin: auto;
+	width: 700px;
+}
+
+.row {
+	height: 50px;
+	margin-bottom: 70px;
+
+}
+
+.logo {
+	float: left;
+	list-style: none;
+	margin-left: 40px;
+	margin-top: 7px;
+}
+
+.logo li a {
+	display:inline-block;
+	color: black;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Futura";
+	font-size: 20px;
+}
+
+.logo li a:hover {
+	opacity: 0.7;
+}
+
+.main-nav {
+	float: right;
+	list-style: none;
+	margin-top: 16px;
+}
+
+.main-nav li {
+	display: inline-block;
+	margin-right: 15px;
+}
+
+.main-nav li a {
+	color: black;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Futura";
+	font-size: 15px;
+}
+
+.main-nav li a:hover {
+	opacity: 0.7;
+}
+
+.border {
+	border: 2px black solid;
+	padding: 10px;
+	height:155px;
+	width: 900px;
+	margin: auto;
+	margin-bottom: 70px;
+}
+
+/* specific to this site 
+
+.about-header {
+	position: absolute;
+	margin: auto;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 1200px;
+	height: 240px;
+}
+
+.about-nav {
+	text-align: center;
+	list-style: none;
+}
+
+.about-nav a {
+	text-decoration: none;
+	color: black;
+	font-size: 40px;
+}
+
+.about-nav a:hover {
+	opacity: 0.7;
+}
+
+.about-nav li {
+	display: inline-block;
+	margin: 40px;
+	margin-top: 30px;
+	font-size: 15px;
+}
+
+.about {
+	
+	height: 100vh;
+	background-color: #9ECCCC;
+	width: 100%;
+	
+	background-color: #68A5D5;
+  	height: 800px;
+  	margin-top:-30px;
+
+}
+	
+.container {
+  border-radius: 5px;
+  width:750px;
+  margin: 0 auto;
+  padding-top:15px;
+  font-size:30px;
+  background: #C7C9CB;
+  height: 500px;
+  font-family: 'Monaco', 'Courier New';
+  text-align: left;
+  font-size:13px;
+  color: white;
+  margin-top: 50px;
+}
+
+.information {
+  width:670px;
+  padding: 40px;
+  height: 400px;
+  margin:0 auto;
+  background: #474C50;
+}
+.information a {
+	text-decoration: none;
+	color: #949698;
+}
+
+.information a:hover {
+	opacity: 0.5;
+}
+
+.answer {
+	color: #949698;
+}
+
+.about p {
+  text-align: center;
+  padding-top: 60px;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 0.3em;
+  font-weight: 700;
+  color: white;
+  font-size: 13px;
+  text-transform: uppercase;
+
+}
+
+.photography {
+	width: 100%;
+}
+
+.img {
+	max-width: 80%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+*/
+
+
+
+
+
+
+
+

@@ -1,0 +1,121 @@
+
+/* from here to .main-nav-li a:hover goes in every page for header */
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+	height: 50px;
+	background-size: cover;
+	background-position: center;
+	background-color: red;
+}
+.row {
+	background-color: white;
+	height: 50px;
+	background: rgba(225, 225, 225, .5)
+}
+
+.logo {
+	float: left;
+	list-style: none;
+	margin-left: 40px;
+	margin-top: 7px;
+}
+
+.logo li a {
+	display:inline-block;
+	color: black;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Futura";
+	font-size: 20px;
+}
+
+.logo li a:hover {
+	color: black;
+}
+
+.main-nav {
+	float: right;
+	list-style: none;
+	margin-top: 16px;
+}
+
+.main-nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.main-nav li a {
+	color: black;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Futura";
+	font-size: 15px;
+}
+
+.main-nav li a:hover {
+	opacity: 0.5;
+}
+
+/* specific to this site */
+
+
+.transbox {
+	color: black;
+	position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+	background-color: rgba(255, 255, 255, 0.5);
+	width: 550px;
+	height: 550px;
+	border-radius: 3px;
+}
+.transbox div {
+	display: inline-block;
+}
+
+.transbox ul {
+	font-family: "Roboto", sans-serif;
+	list-style-type: none;
+	font-size: 16px;
+}
+
+.transbox h2 {
+	margin-left: 2px;
+}
+
+#school li {
+	margin-left: 10px;
+}
+
+#info li {
+	margin-left: 40px;
+	list-style-type: disc;
+}
+
+.coursework p {
+	font-family: "Roboto", sans-serif;
+	font-size: 30px;
+}
+
+.coursework h4 {
+	margin-left: 10px;
+	font-family: "Roboto", sans-serif;
+}
+
+.coursework ul li {
+	margin-left: 40px;
+	list-style-type: disc;
+}
+
+.skills ul li {
+	margin-left: 40px;
+	list-style-type: disc;
+}
