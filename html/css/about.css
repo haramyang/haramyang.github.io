@@ -11,6 +11,7 @@ header {
 	background-size: cover;
 	background-position: center;
 	height: 87vh;
+	opacity:0.8;
 
 }
 
@@ -38,7 +39,7 @@ p {
 
 .logo li a {
 	display:inline-block;
-	color: black;
+	color: #332F2F;
 	text-decoration: none;
 	padding: 5px 20px;
 	font-family: "Futura";
@@ -61,7 +62,7 @@ p {
 }
 
 .main-nav li a {
-	color: black;
+	color: #332F2F;
 	text-decoration: none;
 	padding: 5px 20px;
 	font-family: "Futura";
